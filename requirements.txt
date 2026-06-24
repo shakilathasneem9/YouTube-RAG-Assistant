@@ -1,0 +1,6 @@
+streamlit
+requests
+python-dotenv
+faster-whisper
+pydub
+streamlit_mic_recorder
