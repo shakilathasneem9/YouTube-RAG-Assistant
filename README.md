@@ -285,3 +285,7 @@ Developed as a Retrieval-Augmented Generation (RAG) project using Streamlit, Fas
 * xAI Grok API
 * yt-dlp
 * FFmpeg
+
+License
+
+This project is created for educational and portfolio purposes.
